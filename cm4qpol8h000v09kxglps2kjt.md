@@ -3,7 +3,7 @@ title: "Git and GitHub"
 datePublished: Mon Dec 16 2024 07:26:37 GMT+0000 (Coordinated Universal Time)
 cuid: cm4qpol8h000v09kxglps2kjt
 slug: git-and-github
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1734413700345/4c062c8c-be62-4e52-a7c5-cf1872274822.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734414588519/018ea150-688b-4e9b-b6fb-6768f5ddb992.jpeg
 tags: linux, github, server, git, devops
 
 ---
