@@ -3,7 +3,7 @@ title: "Git installation and configuration on Linux | GitHub | Central/remote re
 datePublished: Tue Dec 17 2024 05:29:40 GMT+0000 (Coordinated Universal Time)
 cuid: cm4s0y1fx000209md8wn49yly
 slug: git-installation-and-configuration-on-linux-github-centralremote-repository-git-basic-knowledges-ubuntu
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1734413361721/3a9aafe3-48c6-4aaf-ac57-c329b956085a.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734414682909/0f2aaac1-9382-4d94-9690-1c16dc4327e1.jpeg
 tags: cloud, ubuntu, linux, github, python, git, devops, computer
 
 ---
