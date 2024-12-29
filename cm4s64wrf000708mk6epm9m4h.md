@@ -38,7 +38,7 @@ tags: cloud, ubuntu, linux, github, git, devops, cybersecurity-1, linuxcommand
     \=eg: touch biren.txt
     
 * cat ----View the content of a file.  
-    \=eg: biren.txt
+    \=eg: cat biren.txt
     
 
 2. **System Information**
