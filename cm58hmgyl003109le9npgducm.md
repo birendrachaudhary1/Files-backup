@@ -3,7 +3,7 @@ title: "🎯How to Set File Permissions in Linux.🎉"
 datePublished: Sat Dec 28 2024 18:00:53 GMT+0000 (Coordinated Universal Time)
 cuid: cm58hmgyl003109le9npgducm
 slug: how-to-set-file-permissions-in-linux
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735315310591/538a3ae1-55ba-479e-b6e6-7a73e8121b28.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735449229125/b536cbc7-0f7a-4a3f-afd4-6b9dfa8c845d.jpeg
 tags: ubuntu, linux, devops, os
 
 ---
