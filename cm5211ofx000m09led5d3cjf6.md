@@ -10,7 +10,23 @@ tags: dns, ubuntu, linux, docker, https, devops, monitoring-tool, linuxsystemadm
 
 Uptime Kuma is a tool you can host yourself to monitor the health of different services, like websites, servers, or databases. It supports checks for things like HTTP, HTTPS, DNS, PING, TCP, and SQL. If something goes down, it can send alerts via Email, Telegram, Discord, Microsoft Teams, and more.
 
-You can run Uptime Kuma in a Docker container, which makes it lightweight, fast, and easy to set up. I'll guide you on how to build and configure it in Docker.
+You can run Uptime Kuma in a Docker container, which makes it lightweight, fast, and easy to set up. I'll guide you on how to build and configure it in Docker.  
+
+How to install Docker (if it’s not already installed).
+
+* Update your system: sudo apt update
+    
+
+* Install Docker: sudo apt install -y [docker.io](http://docker.io)
+    
+* Start Docker: sudo systemctl start docker
+    
+* Enable Docker to start on boot: sudo systemctl enable docker
+    
+* Check Docker version: docker --version
+    
+* Test Docker: sudo docker run hello-world
+    
 
 **STEP-1: Open the terminal on your server where Docker is installed:**  
 command: docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1
