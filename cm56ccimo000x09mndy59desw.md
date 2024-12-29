@@ -1,8 +1,8 @@
 ---
-title: "How to solve malicious injection has occurred in  database for WordPress site. 🚀"
+title: "How to solve malicious injection occurred in  database for WordPress site. 🚀"
 datePublished: Fri Dec 27 2024 05:57:38 GMT+0000 (Coordinated Universal Time)
 cuid: cm56ccimo000x09mndy59desw
-slug: how-to-solve-malicious-injection-has-occurred-in-database-for-wordpress-site
+slug: how-to-solve-malicious-injection-occurred-in-database-for-wordpress-site
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735278646580/897d2621-946a-4479-85cf-4eb8cb174841.jpeg
 tags: ubuntu, linux, wordpress, mysql, database, troubleshoot
 
