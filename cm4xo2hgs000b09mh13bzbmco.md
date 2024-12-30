@@ -1,8 +1,8 @@
 ---
-title: "🎯To solve slowness seen on the website🚀 | troubleshoot | load average | Log | problem | wp cli | plugins.✔"
+title: "🎯How to solve slowness seen on the website🚀 | troubleshoot | load average | Log | problem | wp cli | plugins.✔"
 datePublished: Sat Dec 21 2024 04:15:49 GMT+0000 (Coordinated Universal Time)
 cuid: cm4xo2hgs000b09mh13bzbmco
-slug: to-solve-slowness-seen-on-the-website-troubleshoot-load-average-log-problem-wp-cli-plugins
+slug: how-to-solve-slowness-seen-on-the-website-troubleshoot-load-average-log-problem-wp-cli-plugins
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734672006319/ba583a94-047f-4aef-9362-5cd99452d3f6.jpeg
 tags: linux, wordpress, redis, database, plugins, load-balancing, troubleshoot, slowness
 
