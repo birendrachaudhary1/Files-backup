@@ -1,8 +1,8 @@
 ---
-title: "🎯Cyberpanel installation in linux | ubuntu | openlitespeed | wordpress intsall | how it works with wordpress site👁."
+title: "🎯 How to install Cyberpanel in linux | ubuntu | openlitespeed | wordpress intsall | how it works with wordpress site👁."
 datePublished: Wed Dec 18 2024 04:15:51 GMT+0000 (Coordinated Universal Time)
 cuid: cm4tdqy9d000009jo7qfuhz1k
-slug: cyberpanel-installation-in-linux-ubuntu-openlitespeed-wordpress-intsall-how-it-works-with-wordpress-site
+slug: how-to-install-cyberpanel-in-linux-ubuntu-openlitespeed-wordpress-intsall-how-it-works-with-wordpress-site
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734425343283/755482f8-7b7a-4361-90e6-d91f70ba6502.jpeg
 tags: ubuntu, linux, wordpress, architecture, devops, wordpressinstallation, cyberpanel
 
