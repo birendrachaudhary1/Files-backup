@@ -1,5 +1,5 @@
 ---
-title: "Git installation and configuration on Linux | GitHub | Central/remote repository | Git | basic knowledges | ubuntu"
+title: "How to install Git  and configure on Linux | GitHub | Central/remote repository | Git | basic knowledges | ubuntu"
 datePublished: Tue Dec 17 2024 05:29:40 GMT+0000 (Coordinated Universal Time)
 cuid: cm4s0y1fx000209md8wn49yly
 slug: git-installation-and-configuration-on-linux-github-centralremote-repository-git-basic-knowledges-ubuntu
