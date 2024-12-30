@@ -1,8 +1,8 @@
 ---
-title: "❎Disk space full issue 🚀| wordpress site | php | Linux | wordpress admin |"
+title: "❎How to Fix Disk Space Full Issue on WordPress Site by Mounting (Linux | PHP | WordPress Admin)" 🚀"
 datePublished: Fri Dec 20 2024 04:15:26 GMT+0000 (Coordinated Universal Time)
 cuid: cm4w8m4y3000l09mk2nftebwt
-slug: disk-space-full-issue-wordpress-site-php-linux-wordpress-admin
+slug: how-to-fix-disk-space-full-issue-on-wordpress-site-by-mounting-linux-php-wordpress-admin
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734501002410/830ef62a-bc56-4b59-baf1-f9fe9f7105e0.jpeg
 tags: digitalocean, cloud, linux, aws, wordpress, php, troubleshooting, troubleshoot, disk-space, mount, disk-management, wordpress-site
 
