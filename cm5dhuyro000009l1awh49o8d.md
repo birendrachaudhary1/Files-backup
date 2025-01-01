@@ -1,8 +1,8 @@
 ---
-title: "How to enable WSL in windows 11 home version 24H2(Quick and Easy Way).🚀"
+title: "How to enable WSL (Windows Subsystem for Linux) in windows 11 home version 24H2(Quick and Easy Way).🚀"
 datePublished: Wed Jan 01 2025 06:06:20 GMT+0000 (Coordinated Universal Time)
 cuid: cm5dhuyro000009l1awh49o8d
-slug: how-to-enable-wsl-in-windows-11-home-version-24h2quick-and-easy-way
+slug: how-to-enable-wsl-windows-subsystem-for-linux-in-windows-11-home-version-24h2quick-and-easy-way
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735711471102/5027ec72-525d-499a-88c5-04dbdb5b5228.jpeg
 tags: ubuntu, linux, wsl, windows-11, enable
 
