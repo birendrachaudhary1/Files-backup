@@ -12,13 +12,13 @@ you'll focus on practical scripting scenarios that are commonly required in syst
 
 You will write scripts to automate routine administrative tasks like monitoring disk usage, checking service statuses, and checking file permissions. This helps you improve your skills in managing and maintaining system resources efficiently while learning to implement conditional logic in shell scripting.
 
-### 1\. **Check Disk Space Usage:**
+1. ### **Check Disk Space Usage:**
+    
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736787210384/3d2e4931-805c-4ee2-88ee-4e26e3ac1838.png align="center")
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736787256927/6814b89f-6157-446d-9869-be8c0fcaedcc.png align="center")
 
-###   
 2\. **Service Status Check**
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736787591471/e6de66e7-9e35-48ec-88b6-7c69f55c8501.png align="center")
