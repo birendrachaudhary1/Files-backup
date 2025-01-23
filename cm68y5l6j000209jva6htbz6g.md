@@ -1,8 +1,8 @@
 ---
-title: "Prometheus  installation on linux.🎯"
+title: "How to install Prometheus  on linux.🎯"
 datePublished: Thu Jan 23 2025 06:23:21 GMT+0000 (Coordinated Universal Time)
 cuid: cm68y5l6j000209jva6htbz6g
-slug: prometheus-installation-on-linux
+slug: how-to-install-prometheus-on-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737612117778/1a586418-3c76-4a28-9521-6d8be5bd80d2.jpeg
 tags: ubuntu, linux, monitoring, prometheus, installation
 
