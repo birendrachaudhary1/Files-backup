@@ -1,5 +1,5 @@
 ---
-title: "Unit 2 - Download, install and configure Linux(part-1)🌀."
+title: "Module 2 - Download, install and configure Linux(part-1)🌀."
 datePublished: Fri Feb 21 2025 10:32:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm7emt29000090ajr7wmm5vm9
 slug: unit-2-download-install-and-configure-linuxpart-1
