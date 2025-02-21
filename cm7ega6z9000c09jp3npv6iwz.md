@@ -1,8 +1,8 @@
 ---
-title: "Unit 1-Exploring Linux Core Fundamentals🌀"
+title: "Module 1-Exploring Linux Core Fundamentals🌀"
 datePublished: Fri Feb 21 2025 07:29:22 GMT+0000 (Coordinated Universal Time)
 cuid: cm7ega6z9000c09jp3npv6iwz
-slug: unit-1-exploring-linux-core-fundamentals
+slug: module-1-exploring-linux-core-fundamentals
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740114169545/ade3ba89-f97f-43df-9956-0f258316f88b.webp
 tags: ubuntu, linux, fundamentals, history, centos, basics, fedora, red-hat
 
