@@ -3,16 +3,14 @@ title: "Unit 2 - Download, install and configure Linux(part-1)🌀."
 datePublished: Fri Feb 21 2025 10:32:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm7emt29000090ajr7wmm5vm9
 slug: unit-2-download-install-and-configure-linuxpart-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740133753110/67efea2c-c00e-49fa-9bf0-114db2736b1c.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740134304863/5bf58a8f-5a21-42bb-b2d2-6cc8752d3251.png
 tags: linux, design, hypervisor, vmware-backup, vmware-esxi
 
 ---
 
-# ➡️**Lab Design**
+# ➡️**Lab Design.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740131662829/a664e176-4077-484e-baf7-5f18d64815e2.png align="center")
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740131730618/be8f33fa-710b-49cc-814e-9f3dc5bf726d.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740134360767/0cf3fa60-8418-4df7-855b-84bef292466f.png align="center")
 
 # **➡️What is Virtual box?**
 
@@ -20,7 +18,7 @@ VirtualBox is a free and open-source hypervisor for x86 computers currently bein
 
 It installs on your existing Intel or AMD-based computers, whether they are running Windows, Mac, Linux or Solaris operating systems. It extends the capabilities of your existing computer so that it can run multiple operating systems on one hardware at the same time.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740132525913/cf3c959f-0be9-4f2b-844a-e4fa140e41a5.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740134339164/227d6234-0e8c-4e10-952e-bd4354bbb8ba.png align="center")
 
 # **➡️ Downloading and Installing Oracle VirtualBox.**
 
